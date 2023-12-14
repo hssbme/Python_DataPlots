@@ -1,1 +1,2 @@
-This file needs some text in it
+This file needs some text in it.
+Ensure that text exists.
